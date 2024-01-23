@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/Enemy/Animations/BS_BotEnemyAnimationAI.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/Collectables/Base/BP_Collectable.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/HUD/BP_HUD.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/HUD/Widgets/WB_PickUpWidget.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/HUD/Widgets/WB_UI.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/HUD/Widgets/WB_GameOver.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/Widgets/WB_GameOver.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/Widgets/WB_UI.uasset",
+				"C:/Users/ktark/OneDrive/Documents/Unreal Projects/StripedRecTaskKT/Content/CustomBlueprints/Widgets/WB_PickUpWidget.uasset"
+			]
+		}
+	]
+}
